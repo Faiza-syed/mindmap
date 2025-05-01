@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -95,3 +96,7 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+=======
+# mindmap
+The proposed modeI detects early signs of cognitive decline by analyzing hand-drawn tasks (clock, cube, trail). Users can upload image or draw on their phone, and the AI checks for subtle errors in motor skills and spatial awareness, providing instant results
+>>>>>>> 95bc04b07af3a5d8a2f3e8c13e35b4cdab8e5c2e
